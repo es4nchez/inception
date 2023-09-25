@@ -1,0 +1,40 @@
+services:
+
+  mariadb:
+    build: requirements/mariadb
+    volumes:
+      - /home/esanchez/data/mariadb_volume:/var/lib/mysql
+    restart: on-failure
+    env_file:
+      - .env
+    networks:
+      - backend
+
+  wordpress:
+    build: requirements/wordpress
+    volumes:
+      - /home/esanchez/data/wp_volume:/var/www/html
+    restart: on-failure
+    depends_on:
+      - mariadb
+    networks:
+      - backend
+    env_file:
+      - .env
+
+  nginx:
+    build: requirements/nginx
+    restart: on-failure
+    ports:
+      - "443:443"
+    env_file:
+      - .env
+    networks:
+      - backend
+    volumes:
+      - /home/esanchez/data/wp_volume:/var/www/html
+    depends_on:
+      - wordpress
+
+networks:
+  backend:

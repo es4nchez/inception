@@ -1,0 +1,730 @@
+2023/05/17 13:22:51 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 172.25.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:22:55 [error] 9#9: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "localhost"
+2023/05/17 13:22:56 [error] 9#9: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "localhost"
+2023/05/17 13:29:33 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:29:36 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:29:37 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:29:38 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:29:38 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:29:39 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.27.0.1, server: test.ch, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:26 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:27 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:28 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "0.0.0.0"
+2023/05/17 13:39:37 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:39 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:40 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:40 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:40 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:41 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:41 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:41 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:47 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:47 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:47 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:48 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:48 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:39:48 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 172.29.0.1, server: 0.0.0.0:443, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:18 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:20 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:20 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:21 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:21 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:21 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:22 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:22 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:22 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:22 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:22 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:23 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:23 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:23 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:35 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:38 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:39 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:40 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:41 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:41:41 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:42:00 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:42:00 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:42:01 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 172.30.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 13:44:39 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:42 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:53 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:54 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:55 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:56 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:57 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:58 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:59 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:44:59 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:45:00 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:45:01 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:45:03 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:45:07 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 13:45:12 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 172.31.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.31.0.2:9000", host: "localhost"
+2023/05/17 14:06:27 [error] 9#9: *3 directory index of "/var/www/html/" is forbidden, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:06:29 [error] 9#9: *3 directory index of "/var/www/html/" is forbidden, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:06:29 [error] 9#9: *3 directory index of "/var/www/html/" is forbidden, client: 192.168.16.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:25 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:27 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:28 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:28 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:30 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:31 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:14:32 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.32.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:21:00 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:21:02 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:21:03 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:21:04 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:21:14 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.48.2:9000", host: "localhost"
+2023/05/17 14:21:15 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.48.2:9000", host: "localhost"
+2023/05/17 14:21:16 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.48.2:9000", host: "localhost"
+2023/05/17 14:22:25 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.48.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.48.2:9000", host: "localhost"
+2023/05/17 14:23:56 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.80.2:9000", host: "localhost"
+2023/05/17 14:23:58 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.80.2:9000", host: "localhost"
+2023/05/17 14:24:52 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.80.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.80.2:9000", host: "localhost"
+2023/05/17 14:26:27 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:26:29 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/05/17 14:26:46 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.96.2:9000", host: "localhost"
+2023/05/17 14:26:48 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.96.2:9000", host: "localhost"
+2023/05/17 14:26:48 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.96.2:9000", host: "localhost"
+2023/05/17 14:26:49 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.96.2:9000", host: "localhost"
+2023/05/17 14:26:49 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.96.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.96.2:9000", host: "localhost"
+2023/05/17 14:30:11 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.112.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.112.2:9000", host: "localhost"
+2023/05/17 14:33:01 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 14:33:03 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 15:00:33 [error] 9#9: *5 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 15:22:49 [error] 10#10: *7 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 15:25:37 [error] 11#11: *9 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 15:51:29 [error] 12#12: *11 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/05/17 15:52:08 [error] 12#12: *11 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /var/www/html/wp-includes/class-wpdb.php on line 2019" while reading response header from upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.2:9000", host: "localhost"
+2023/08/10 09:32:40 [error] 9#9: *2 directory index of "/var/www/html/" is forbidden, client: 172.21.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/10 13:38:00 [error] 7#7: *1 directory index of "/var/www/html/" is forbidden, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/10 13:38:02 [error] 7#7: *1 directory index of "/var/www/html/" is forbidden, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/10 13:38:05 [error] 7#7: *1 directory index of "/var/www/html/" is forbidden, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/10 13:38:07 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
+2023/08/10 13:41:33 [error] 8#8: *1 directory index of "/var/www/html/" is forbidden, client: 172.20.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/10 13:45:40 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9000", host: "localhost"
+2023/08/10 13:45:41 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9000", host: "localhost"
+2023/08/10 13:45:45 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9000", host: "localhost"
+2023/08/10 13:46:11 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9000", host: "localhost"
+2023/08/10 13:46:15 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9000", host: "localhost"
+2023/08/10 13:47:47 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:48 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:49 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:49 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:49 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:50 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:50 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:50 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:50 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:50 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:51 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:51 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:51 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:51 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:51 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:54 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:56 [error] 10#10: *18 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:57 [error] 11#11: *20 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 13:47:59 [error] 11#11: *20 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/10 14:56:32 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: 127.0.0.1, request: "POST /wp-admin/admin-ajax.php HTTP/1.1", upstream: "fastcgi://172.29.0.2:9000", host: "localhost", referrer: "https://localhost/wp-admin/options-general.php?page=redis-cache"
+2023/08/10 15:16:33 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.32.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.32.2:9000", host: "localhost"
+2023/08/10 15:28:22 [error] 11#11: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: 127.0.0.1, request: "POST /wp-admin/admin-ajax.php HTTP/1.1", upstream: "fastcgi://192.168.112.3:9000", host: "localhost", referrer: "https://localhost/wp-admin/options-general.php?page=redis-cache"
+2023/08/10 15:31:40 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:40 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:40 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:41 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:41 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:42 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:43 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:43 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:44 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:44 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:44 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:45 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:45 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:45 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:46 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:46 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:46 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:47 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:47 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:47 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:48 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:48 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:48 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:48 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:49 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:49 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:49 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:49 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:49 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:50 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:50 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:50 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:50 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:50 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:51 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:51 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:51 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:51 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:31:51 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:51 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:51 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:52 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:52 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:52 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:53 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:53 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:53 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:53 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:54 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:54 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:54 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:54 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:54 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:55 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:55 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:57 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:57 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:32:58 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:12 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:13 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:13 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:14 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:14 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:14 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:14 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:15 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:33:22 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.128.3:9000", host: "localhost"
+2023/08/10 15:39:01 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.176.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.176.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/10 15:39:02 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.176.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.176.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/10 15:39:03 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.176.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.176.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/10 15:39:04 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.176.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://192.168.176.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/11 11:36:21 [error] 9#9: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/11 11:36:22 [error] 9#9: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost", referrer: "https://localhost/wp-login.php?redirect_to=https%3A%2F%2Flocalhost%2Fwp-admin%2Foptions-general.php%3Fpage%3Dredis-cache&reauth=1"
+2023/08/11 11:37:28 [error] 9#9: *1 upstream timed out (110: Operation timed out) while connecting to upstream, client: 172.23.0.1, server: 127.0.0.1, request: "GET /wp-admin/options-general.php?page=redis-cache HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost"
+2023/08/11 13:06:44 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.27.0.1, server: 127.0.0.1, request: "GET /wp-admin/plugin-install.php?s=redis&tab=search&type=term HTTP/1.1", upstream: "fastcgi://172.27.0.2:9000", host: "localhost", referrer: "https://localhost/wp-admin/plugins.php"
+2023/08/11 13:09:17 [error] 9#9: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: 127.0.0.1, request: "POST /wp-admin/admin-ajax.php HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost", referrer: "https://localhost/wp-admin/options-general.php?page=redis-cache"
+2023/08/11 13:40:15 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.32.1, server: 127.0.0.1, request: "POST /wp-admin/admin-ajax.php HTTP/1.1", upstream: "fastcgi://192.168.32.2:9000", host: "localhost", referrer: "https://localhost/wp-admin/options-general.php?page=redis-cache"
+2023/09/21 14:10:04 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:10:06 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:11:10 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:11:13 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:11:17 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:11:26 [error] 8#8: *3 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:12:54 [error] 8#8: *10 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:14:40 [error] 8#8: *12 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:16:59 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:04 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:05 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:05 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:05 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:06 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:06 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:24 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:18:43 [error] 8#8: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:20:58 [error] 8#8: *156 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:21:00 [error] 8#8: *156 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:24:04 [error] 8#8: *160 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:24:07 [error] 8#8: *160 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:24:09 [error] 8#8: *160 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:29:36 [error] 8#8: *164 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:30:18 [error] 8#8: *164 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "10.13.250.174"
+2023/09/21 14:30:50 [error] 8#8: *169 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.0", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
+2023/09/21 14:31:42 [error] 7#7: *172 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
+2023/09/21 16:26:03 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:04 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:05 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:06 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:06 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:06 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:07 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:08 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:08 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:08 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:08 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:09 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:09 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:09 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:09 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:09 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:12 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:15 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:17 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:19 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:21 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:41 [error] 7#7: *24 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 172.18.0.1, server: 127.0.0.1, request: "GET / HTTP/1.0", upstream: "fastcgi://172.18.0.3:9000", host: "localhost"
+2023/09/21 16:26:52 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:26:53 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:30 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:32 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:33 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:33 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:34 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:34 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:35 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:35 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:35 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:35 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:33:35 [error] 8#8: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:42 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:42 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:43 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:43 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:43 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:43 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:43 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:44 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:44 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:44 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:44 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:44 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:45 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:35:46 [error] 7#7: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "10.13.250.174"
+2023/09/21 16:57:54 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "10.13.250.174"
+2023/09/21 16:57:55 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "10.13.250.174"
+2023/09/21 16:58:01 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "10.13.250.174"
+2023/09/21 16:58:06 [error] 9#9: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "10.13.250.174"
+2023/09/21 17:02:11 [error] 8#8: *7 FastCGI sent in stderr: "PHP message: PHP Warning:  require_once(/var/www/html/wp-config.php): Failed to open stream: Permission denied in /var/www/html/wp-load.php on line 50; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/wp-config.php' (include_path='.:/usr/share/php') in /var/www/html/wp-load.php:50
+Stack trace:
+#0 /var/www/html/wp-blog-header.php(13): require_once()
+#1 /var/www/html/index.php(17): require('...')
+#2 {main}
+  thrown in /var/www/html/wp-load.php on line 50" while reading response header from upstream, client: 10.13.5.3, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "10.13.250.174"
+2023/09/24 12:14:00 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:14:05 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:14:06 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:14:07 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:14:14 [error] 8#8: *2 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:15:44 [error] 9#9: *3 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:19:28 [error] 10#10: *4 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:23:27 [error] 7#7: *5 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
+2023/09/24 12:24:45 [error] 7#7: *6 directory index of "/var/www/html/" is forbidden, client: 10.11.13.2, server: 127.0.0.1, request: "GET / HTTP/1.1", host: "10.11.249.189"
